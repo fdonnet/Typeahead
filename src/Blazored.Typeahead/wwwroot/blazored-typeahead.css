@@ -199,8 +199,8 @@
 .blazored-typeahead__results-header,
 .blazored-typeahead__results-footer {
     padding: .5rem;
-    border-top: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+    border-top: 1px solid #d7d7d7;
+    border-bottom: 1px solid #d7d7d7;
 }
 
 .blazored-typeahead__selected-item {
