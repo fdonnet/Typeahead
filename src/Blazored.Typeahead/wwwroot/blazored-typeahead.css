@@ -214,9 +214,9 @@
 .blazored-typeahead__active-item,
 .blazored-typeahead__result:hover,
 .blazored-typeahead__result:focus {
-    background-color: #007bff;
-    border-top: 1px solid #007bff;
-    border-bottom: 1px solid #007bff;
+    background-color: #474747;
+    border-top: 1px solid #474747;
+    border-bottom: 1px solid #474747;
     color: #fff;
     cursor: pointer;
 }
